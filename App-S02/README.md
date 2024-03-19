@@ -1,3 +1,3 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-TODO
+Req No 3 Mattia Riccardi
+Req No 4 Miguel Santiago Roa Vallejo
